@@ -7,9 +7,11 @@ We build open source tools for developers and AI agents.
 
 ### Our Projects
 
-- **[GenAlpha CLI](https://github.com/Forge41/genalphacli)** — Convert any API repository into a CLI tool and MCP server, automatically. Supports FastAPI, Django, and OpenAPI specs.
+- **[GenAlpha CLI](https://github.com/NandishNaik01/genalphacli)** — Convert any API repository into a CLI tool and MCP server, automatically. Supports FastAPI, Django, and OpenAPI specs.
 
-- **[nantex](https://github.com/Forge41/nantex)** — LaTeX-to-PDF live preview in your browser. Watch mode, no local LaTeX install needed. `uvx nantex main.tex` and you're done.
+- **[nandex](https://github.com/NandishNaik01/nandex)** — Open-source RAG system and AutoInterviewer, an AI voice interviewer. Live at [autointerviewer.nandish.online](https://autointerviewer.nandish.online).
+
+- **[nantex](https://github.com/NandishNaik01/nantex)** — LaTeX-to-PDF live preview in your browser. Watch mode, no local LaTeX install needed. `uvx nantex main.tex` and you're done.
 
 ### Get Involved
 
